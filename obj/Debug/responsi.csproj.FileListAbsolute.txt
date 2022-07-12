@@ -1,0 +1,6 @@
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\bin\Debug\responsi.exe.config
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\obj\Debug\responsi.csprojResolveAssemblyReference.cache
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\bin\Debug\responsi.exe
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\bin\Debug\responsi.pdb
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\obj\Debug\responsi.exe
+C:\Users\lenov\Documents\Visual Studio 2015\Projects\responsi\responsi\responsi\obj\Debug\responsi.pdb
