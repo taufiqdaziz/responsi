@@ -20,9 +20,9 @@ namespace responsi
                 TampilMenu();
 
                 Console.Write("\nNomor Menu [1..4]: ");
-                int nomorMenu = Convert.ToInt32(Console.ReadLine());
+                int nomor = Convert.ToInt32(Console.ReadLine());
 
-                switch (nomorMenu)
+                switch (nomor)
                 {
                     case 1:
                         TambahProduk();
